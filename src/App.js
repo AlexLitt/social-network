@@ -7,7 +7,7 @@ import Profile from './components/Profile.jsx'
 const App = () => {
   return (
     <div className="app-wrapper">
-    <Header/>
+      <Header/>
       <div className="main__wrapper">
         <Navbar />
         <Profile />

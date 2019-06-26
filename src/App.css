@@ -2,19 +2,11 @@
   width: 100%;
 }
 
-.header {
-  background-color: red;
-}
-
 .nav{
   background-color: blue;
   width: 20%;
 }
 
-.content {
-  background-color: green;
-  width: 80%;
-}
 
 .main__wrapper {
   display: -webkit-flex;
