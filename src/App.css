@@ -7,11 +7,11 @@
   width: 20%;
 }
 
-
 .main__wrapper {
   display: -webkit-flex;
   display: -ms-flex;
   display: flex;
+  min-height: 400px;
 }
 
 .main__img {

@@ -1,10 +1,12 @@
 import React from 'react';
 import './Profile.module.css';
+import Post from '../Post/Post.jsx';
 
 
 let test = {
-            'content' : 'Profile_content__2A0wl',  
+            'content' : 'Profile_content__2n2zP'
 }
+
 const Profile = () => {
   return(
     <div className={test.content}>
@@ -16,6 +18,8 @@ const Profile = () => {
         <div className="item">Date of Birth: 2 january</div>
         <div className="item">City: Minsk</div> 
       </div>
+     <Post message="Hello, buddy" like="2" />
+     <Post message="Second post" like="3" /> 
     </div>
   </div>
   )
