@@ -2,9 +2,10 @@
   width: 100%;
 }
 
-.nav{
+.nav {
   background-color: blue;
   width: 20%;
+  padding: 20px;
 }
 
 .main__wrapper {
@@ -17,4 +18,14 @@
 .main__img {
   width: 800px;
   margin: 0 auto;
+}
+
+.link {
+  color: white;
+  text-decoration: none;
+}
+
+
+.bro {
+  color: red;
 }
