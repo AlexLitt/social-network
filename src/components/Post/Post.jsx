@@ -2,8 +2,8 @@ import React from  'react';
 import './Post.module.css'; 
 
 let style = {
-    'post' : 'Post_post__17X8E',
-    'like' : 'Post_like__3ChHp'
+    'post' : 'Post_post__3iLUm',
+    'like' : 'Post_like__1lJMW'
 }
 
 

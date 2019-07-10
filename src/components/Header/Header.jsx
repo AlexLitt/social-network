@@ -2,7 +2,7 @@ import React from "react";
 import "./Header.module.css";
 
 let test = {
-  header: "Header_header__28DHh"
+  header: "Header_header__1VCKf"
 };
 
 const Header = () => {

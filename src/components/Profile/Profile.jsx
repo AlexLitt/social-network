@@ -4,7 +4,7 @@ import Post from '../Post/Post.jsx';
 
 
 let test = {
-            'content' : 'Profile_content__2n2zP'
+            'content' : 'Profile_content__2wLDD'
 }
 
 const Profile = () => {
